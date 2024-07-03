@@ -8,12 +8,12 @@ In August 2021, hackers breached T-Mobile's systems, accessing sensitive data li
 T-Mobile faced a data breach exposing customer information. To minimize harm, they implemented a plan with several key actions: stopping further unauthorized access, analyzing compromised data, informing affected customers, offering identity theft protection services, and managing the overall response with a dedicated team and clear communication.
 
 ## Skills Demonstrated:
-Incident Response
-Data Security
-Customer Communication
-Identity Theft Protection
-Project Management
-Public Relations
+1- Incident Response
+1- Data Security
+3- Customer Communication
+4- Identity Theft Protection
+5- Project Management
+6- Public Relations
 
 ## Solution:
 The T-Mobile data breach response focused on:
@@ -26,4 +26,3 @@ The T-Mobile data breach response focused on:
 ## Approach:
 The T-Mobile data breach response prioritized immediate actions to contain the attack and protect data. Collaboration across departments ensured information sharing, effective solutions, and clear communication. The project remained adaptable, adjusting its approach based on new information and developments throughout the response.
 
-Links: https://github.com/REDHWAN0/IBM-Cybersecurity-Capstone-T-Mobile-Data-Breach-Response
